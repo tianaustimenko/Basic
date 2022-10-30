@@ -1,0 +1,29 @@
+﻿<Window x:Class="Basic.View.Windows.AutorizationWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Basic.View.Windows"
+        mc:Ignorable="d"
+        Title="AutorizationWindow" Height="400" Width="350">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="40"/>
+        </Grid.RowDefinitions>
+        <StackPanel Margin="20" VerticalAlignment="Center">
+            <TextBlock Text="Введите логин:" FontSize="18"/>
+            <TextBox x:Name="tbLogin" FontSize="18" Background="#D1CADB"/>
+            <TextBlock Text="Введите пароль:" FontSize="18" />
+            <PasswordBox x:Name="tbPassword" FontSize="18" Background="#D1CADB"/>
+        </StackPanel>
+        <Button x:Name="btnSignIn"
+                Grid.Row="1"
+                Content="Войти"
+                Click="btnSignIn_Click"
+                FontSize="18" 
+                Background="#956BD2"
+                FontFamily="Calibry"
+                Margin="5"/>
+    </Grid>
+</Window>

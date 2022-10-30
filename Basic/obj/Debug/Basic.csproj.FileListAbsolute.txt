@@ -1,0 +1,120 @@
+C:\Users\Фатима\source\repos\Basic\Basic\obj\Debug\MainWindow.g.cs
+C:\Users\Фатима\source\repos\Basic\Basic\obj\Debug\View\Windows\AdminWindow.g.cs
+C:\Users\Фатима\source\repos\Basic\Basic\obj\Debug\View\Windows\AutorizationWindow.g.cs
+C:\Users\Фатима\source\repos\Basic\Basic\obj\Debug\View\Windows\BuyerWindow.g.cs
+C:\Users\Фатима\source\repos\Basic\Basic\obj\Debug\View\Windows\ManagerWindow.g.cs
+C:\Users\Фатима\source\repos\Basic\Basic\obj\Debug\App.g.cs
+C:\Users\Фатима\source\repos\Basic\Basic\obj\Debug\Basic_MarkupCompile.cache
+C:\Users\Фатима\source\repos\Basic\Basic\obj\Debug\Basic_MarkupCompile.lref
+C:\Users\Фатима\source\repos\Basic\Basic\bin\Debug\Basic.exe.config
+C:\Users\Фатима\source\repos\Basic\Basic\bin\Debug\Basic.exe
+C:\Users\Фатима\source\repos\Basic\Basic\bin\Debug\Basic.pdb
+C:\Users\Фатима\source\repos\Basic\Basic\obj\Debug\MainWindow.baml
+C:\Users\Фатима\source\repos\Basic\Basic\obj\Debug\View\Windows\AdminWindow.baml
+C:\Users\Фатима\source\repos\Basic\Basic\obj\Debug\View\Windows\AutorizationWindow.baml
+C:\Users\Фатима\source\repos\Basic\Basic\obj\Debug\View\Windows\BuyerWindow.baml
+C:\Users\Фатима\source\repos\Basic\Basic\obj\Debug\View\Windows\ManagerWindow.baml
+C:\Users\Фатима\source\repos\Basic\Basic\obj\Debug\Basic.g.resources
+C:\Users\Фатима\source\repos\Basic\Basic\obj\Debug\Basic.Properties.Resources.resources
+C:\Users\Фатима\source\repos\Basic\Basic\obj\Debug\Basic.csproj.GenerateResource.cache
+C:\Users\Фатима\source\repos\Basic\Basic\obj\Debug\Basic.csproj.CoreCompileInputs.cache
+C:\Users\Фатима\source\repos\Basic\Basic\obj\Debug\Basic.exe
+C:\Users\Фатима\source\repos\Basic\Basic\obj\Debug\Basic.pdb
+C:\Users\Фатима\source\repos\Basic\Basic\obj\Debug\ResourceDictionaries\ColorDictionary.baml
+C:\Users\Фатима\source\repos\Basic\Basic\obj\Debug\ResourceDictionaries\StyleDictionary.baml
+C:\Users\Фатима\source\repos\Basic\Basic\obj\Debug\View\Pages\UsersPage.baml
+C:\Users\Фатима\source\repos\Basic\Basic\obj\Debug\View\Pages\SomePage.g.cs
+C:\Users\Фатима\source\repos\Basic\Basic\obj\Debug\View\Pages\SomePage.baml
+C:\Users\Фатима\source\repos\Basic\Basic\obj\Debug\View\Pages\UsersPage.g.cs
+C:\Users\Фатима\source\repos\Basic\Basic\obj\Debug\App.baml
+C:\Users\Фатима\source\repos\Basic\Basic\obj\Debug\Basic.csproj.AssemblyReference.cache
+D:\Хуаде ИС-31\Basic-2.0-master\Basic\bin\Debug\Basic.exe.config
+D:\Хуаде ИС-31\Basic-2.0-master\Basic\bin\Debug\Basic.exe
+D:\Хуаде ИС-31\Basic-2.0-master\Basic\bin\Debug\Basic.pdb
+D:\Хуаде ИС-31\Basic-2.0-master\Basic\obj\Debug\Basic.csproj.AssemblyReference.cache
+D:\Хуаде ИС-31\Basic-2.0-master\Basic\obj\Debug\ResourceDictionaries\ColorDictionary.baml
+D:\Хуаде ИС-31\Basic-2.0-master\Basic\obj\Debug\ResourceDictionaries\StyleDictionary.baml
+D:\Хуаде ИС-31\Basic-2.0-master\Basic\obj\Debug\MainWindow.g.cs
+D:\Хуаде ИС-31\Basic-2.0-master\Basic\obj\Debug\View\Pages\SomePage.g.cs
+D:\Хуаде ИС-31\Basic-2.0-master\Basic\obj\Debug\View\Pages\UsersPage.g.cs
+D:\Хуаде ИС-31\Basic-2.0-master\Basic\obj\Debug\View\Windows\AdminWindow.g.cs
+D:\Хуаде ИС-31\Basic-2.0-master\Basic\obj\Debug\View\Windows\AutorizationWindow.g.cs
+D:\Хуаде ИС-31\Basic-2.0-master\Basic\obj\Debug\View\Windows\BuyerWindow.g.cs
+D:\Хуаде ИС-31\Basic-2.0-master\Basic\obj\Debug\View\Windows\ManagerWindow.g.cs
+D:\Хуаде ИС-31\Basic-2.0-master\Basic\obj\Debug\App.g.cs
+D:\Хуаде ИС-31\Basic-2.0-master\Basic\obj\Debug\Basic_MarkupCompile.cache
+D:\Хуаде ИС-31\Basic-2.0-master\Basic\obj\Debug\Basic_MarkupCompile.lref
+D:\Хуаде ИС-31\Basic-2.0-master\Basic\obj\Debug\App.baml
+D:\Хуаде ИС-31\Basic-2.0-master\Basic\obj\Debug\MainWindow.baml
+D:\Хуаде ИС-31\Basic-2.0-master\Basic\obj\Debug\View\Pages\SomePage.baml
+D:\Хуаде ИС-31\Basic-2.0-master\Basic\obj\Debug\View\Pages\UsersPage.baml
+D:\Хуаде ИС-31\Basic-2.0-master\Basic\obj\Debug\View\Windows\AdminWindow.baml
+D:\Хуаде ИС-31\Basic-2.0-master\Basic\obj\Debug\View\Windows\AutorizationWindow.baml
+D:\Хуаде ИС-31\Basic-2.0-master\Basic\obj\Debug\View\Windows\BuyerWindow.baml
+D:\Хуаде ИС-31\Basic-2.0-master\Basic\obj\Debug\View\Windows\ManagerWindow.baml
+D:\Хуаде ИС-31\Basic-2.0-master\Basic\obj\Debug\Basic.g.resources
+D:\Хуаде ИС-31\Basic-2.0-master\Basic\obj\Debug\Basic.Properties.Resources.resources
+D:\Хуаде ИС-31\Basic-2.0-master\Basic\obj\Debug\Basic.csproj.GenerateResource.cache
+D:\Хуаде ИС-31\Basic-2.0-master\Basic\obj\Debug\Basic.csproj.CoreCompileInputs.cache
+D:\Хуаде ИС-31\Basic-2.0-master\Basic\obj\Debug\Basic.exe
+D:\Хуаде ИС-31\Basic-2.0-master\Basic\obj\Debug\Basic.pdb
+C:\Users\Фатима\Desktop\_basic_-master\Basic\bin\Debug\Basic.exe.config
+C:\Users\Фатима\Desktop\_basic_-master\Basic\bin\Debug\Basic.exe
+C:\Users\Фатима\Desktop\_basic_-master\Basic\bin\Debug\Basic.pdb
+C:\Users\Фатима\Desktop\_basic_-master\Basic\obj\Debug\Basic.csproj.AssemblyReference.cache
+C:\Users\Фатима\Desktop\_basic_-master\Basic\obj\Debug\ResourceDictionaries\ColorDictionary.baml
+C:\Users\Фатима\Desktop\_basic_-master\Basic\obj\Debug\ResourceDictionaries\StyleDictionary.baml
+C:\Users\Фатима\Desktop\_basic_-master\Basic\obj\Debug\MainWindow.g.cs
+C:\Users\Фатима\Desktop\_basic_-master\Basic\obj\Debug\View\Pages\SomePage.g.cs
+C:\Users\Фатима\Desktop\_basic_-master\Basic\obj\Debug\View\Pages\UsersPage.g.cs
+C:\Users\Фатима\Desktop\_basic_-master\Basic\obj\Debug\View\Windows\AdminWindow.g.cs
+C:\Users\Фатима\Desktop\_basic_-master\Basic\obj\Debug\View\Windows\AutorizationWindow.g.cs
+C:\Users\Фатима\Desktop\_basic_-master\Basic\obj\Debug\View\Windows\BuyerWindow.g.cs
+C:\Users\Фатима\Desktop\_basic_-master\Basic\obj\Debug\View\Windows\ManagerWindow.g.cs
+C:\Users\Фатима\Desktop\_basic_-master\Basic\obj\Debug\App.g.cs
+C:\Users\Фатима\Desktop\_basic_-master\Basic\obj\Debug\Basic_MarkupCompile.cache
+C:\Users\Фатима\Desktop\_basic_-master\Basic\obj\Debug\Basic_MarkupCompile.lref
+C:\Users\Фатима\Desktop\_basic_-master\Basic\obj\Debug\App.baml
+C:\Users\Фатима\Desktop\_basic_-master\Basic\obj\Debug\MainWindow.baml
+C:\Users\Фатима\Desktop\_basic_-master\Basic\obj\Debug\View\Pages\SomePage.baml
+C:\Users\Фатима\Desktop\_basic_-master\Basic\obj\Debug\View\Pages\UsersPage.baml
+C:\Users\Фатима\Desktop\_basic_-master\Basic\obj\Debug\View\Windows\AdminWindow.baml
+C:\Users\Фатима\Desktop\_basic_-master\Basic\obj\Debug\View\Windows\AutorizationWindow.baml
+C:\Users\Фатима\Desktop\_basic_-master\Basic\obj\Debug\View\Windows\BuyerWindow.baml
+C:\Users\Фатима\Desktop\_basic_-master\Basic\obj\Debug\View\Windows\ManagerWindow.baml
+C:\Users\Фатима\Desktop\_basic_-master\Basic\obj\Debug\Basic.g.resources
+C:\Users\Фатима\Desktop\_basic_-master\Basic\obj\Debug\Basic.Properties.Resources.resources
+C:\Users\Фатима\Desktop\_basic_-master\Basic\obj\Debug\Basic.csproj.GenerateResource.cache
+C:\Users\Фатима\Desktop\_basic_-master\Basic\obj\Debug\Basic.csproj.CoreCompileInputs.cache
+C:\Users\Фатима\Desktop\_basic_-master\Basic\obj\Debug\Basic.exe
+C:\Users\Фатима\Desktop\_basic_-master\Basic\obj\Debug\Basic.pdb
+C:\Users\Asus\Desktop\Basic-master\Basic\bin\Debug\Basic.exe.config
+C:\Users\Asus\Desktop\Basic-master\Basic\bin\Debug\Basic.exe
+C:\Users\Asus\Desktop\Basic-master\Basic\bin\Debug\Basic.pdb
+C:\Users\Asus\Desktop\Basic-master\Basic\obj\Debug\Basic.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Basic-master\Basic\obj\Debug\ResourceDictionaries\ColorDictionary.baml
+C:\Users\Asus\Desktop\Basic-master\Basic\obj\Debug\ResourceDictionaries\StyleDictionary.baml
+C:\Users\Asus\Desktop\Basic-master\Basic\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\Desktop\Basic-master\Basic\obj\Debug\View\Pages\SomePage.g.cs
+C:\Users\Asus\Desktop\Basic-master\Basic\obj\Debug\View\Pages\UsersPage.g.cs
+C:\Users\Asus\Desktop\Basic-master\Basic\obj\Debug\View\Windows\AdminWindow.g.cs
+C:\Users\Asus\Desktop\Basic-master\Basic\obj\Debug\View\Windows\AutorizationWindow.g.cs
+C:\Users\Asus\Desktop\Basic-master\Basic\obj\Debug\View\Windows\BuyerWindow.g.cs
+C:\Users\Asus\Desktop\Basic-master\Basic\obj\Debug\View\Windows\ManagerWindow.g.cs
+C:\Users\Asus\Desktop\Basic-master\Basic\obj\Debug\App.g.cs
+C:\Users\Asus\Desktop\Basic-master\Basic\obj\Debug\Basic_MarkupCompile.cache
+C:\Users\Asus\Desktop\Basic-master\Basic\obj\Debug\Basic_MarkupCompile.lref
+C:\Users\Asus\Desktop\Basic-master\Basic\obj\Debug\App.baml
+C:\Users\Asus\Desktop\Basic-master\Basic\obj\Debug\MainWindow.baml
+C:\Users\Asus\Desktop\Basic-master\Basic\obj\Debug\View\Pages\SomePage.baml
+C:\Users\Asus\Desktop\Basic-master\Basic\obj\Debug\View\Pages\UsersPage.baml
+C:\Users\Asus\Desktop\Basic-master\Basic\obj\Debug\View\Windows\AdminWindow.baml
+C:\Users\Asus\Desktop\Basic-master\Basic\obj\Debug\View\Windows\AutorizationWindow.baml
+C:\Users\Asus\Desktop\Basic-master\Basic\obj\Debug\View\Windows\BuyerWindow.baml
+C:\Users\Asus\Desktop\Basic-master\Basic\obj\Debug\View\Windows\ManagerWindow.baml
+C:\Users\Asus\Desktop\Basic-master\Basic\obj\Debug\Basic.g.resources
+C:\Users\Asus\Desktop\Basic-master\Basic\obj\Debug\Basic.Properties.Resources.resources
+C:\Users\Asus\Desktop\Basic-master\Basic\obj\Debug\Basic.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Basic-master\Basic\obj\Debug\Basic.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Basic-master\Basic\obj\Debug\Basic.exe
+C:\Users\Asus\Desktop\Basic-master\Basic\obj\Debug\Basic.pdb
